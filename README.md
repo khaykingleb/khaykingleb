@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Interested in mathematics, data science & finance.
+Have a passion for mathematics, data science & finance.
