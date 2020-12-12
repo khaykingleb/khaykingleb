@@ -1,4 +1,4 @@
-> Have a passion for mathematics, data science & finance.
+> Was mich nicht umbringt macht mich stärker.
 
 ### Info
 * B.Sc. in Economics, minor in Data Science at [National Research University "Higher School of Economics"](https://www.hse.ru/en/). 
