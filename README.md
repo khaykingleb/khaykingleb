@@ -5,5 +5,6 @@
 * CFA L1 Candidate.
 
 ### Contacts
-[<img align="left" alt="kh_gleb_linkedin" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg"/>](https://www.linkedin.com/in/khaykingleb)
-[<img align="left" alt="kh_gleb_kaggle" width="30px" src="https://img.icons8.com/windows/32/4a90e2/kaggle.svg"/>](https://www.kaggle.com/glebkhaykin)
+[<img align="left" alt="kh_gleb_linkedin" width="30px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.svg"/>](https://www.linkedin.com/in/khaykingleb)
+[<img align="left" alt="kh_gleb_kaggle" width="30px" src="https://img.icons8.com/windows/32/000000/kaggle.svg"/>](https://www.kaggle.com/glebkhaykin)
+[<img align="left" alt="kh_gleb_telegram" width="30px" src="https://img.icons8.com/wired/64/000000/telegram-app.svg"/>](https://telegram.me/khaykingleb)
