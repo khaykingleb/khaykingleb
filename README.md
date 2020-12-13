@@ -1,7 +1,7 @@
 > Was mich nicht umbringt macht mich stärker.
 
 ### Info
-* B.Sc. in Economics, minor in Data Science at [National Research University "Higher School of Economics"](https://www.hse.ru/en/). 
+* B.Sc. in Economics, minor in Data Science at National Research University ["Higher School of Economics"](https://www.hse.ru/en/). 
 * CFA L1 Candidate.
 
 ### Contacts
