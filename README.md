@@ -2,7 +2,7 @@
 
 ### Info
 * [Higher School of Economics](https://www.hse.ru/en/), B.Sc. in Economics (minor in Data Science). 
-* CFA L1 Candidate.
+* CFA Level I Candidate.
 
 ### Contacts
 [<img align="left" alt="kh_gleb_linkedin" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.svg"/>](https://www.linkedin.com/in/khaykingleb)
