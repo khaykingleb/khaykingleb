@@ -1,7 +1,7 @@
 > Was mich nicht umbringt macht mich stärker.
 
 ### Info
-* [Higher School of Economics](https://www.hse.ru/en/), B.Sc. in Economics (minor in Data Science). 
+* [Higher School of Economics](https://www.hse.ru/en/), Economics & Data Science. 
 * CFA Level I Passed.
 
 ### Contacts
