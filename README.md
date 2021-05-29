@@ -1,4 +1,4 @@
-> Was mich nicht umbringt macht mich stärker.
+> Der Mensch ist Etwas, das überwunden werden soll.
 
 ### Info
 * [Higher School of Economics](https://www.hse.ru/en/), Economics & Data Science. 
