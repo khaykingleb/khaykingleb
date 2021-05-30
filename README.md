@@ -1,7 +1,7 @@
-> Der Mensch ist Etwas, das überwunden werden soll.
+> Der Mensch ist etwas, das überwunden werden soll.
 
 ### Info
-* [Higher School of Economics](https://www.hse.ru/en/), Economics & Data Science. 
+* [HSE](https://www.hse.ru/en/), Economics & Data Science. 
 * CFA Level I Passed.
 
 ### Contacts
