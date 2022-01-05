@@ -9,9 +9,9 @@
 ### Contacts
 <p align = "left">
   <a href="https://www.linkedin.com/in/khaykingleb">
-      <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.svg"/>
+      <img align="left" alt="kh_gleb_linkedin" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.svg"/>
   </a>
   <a href="https://www.kaggle.com/glebkhaykin">
-      <img align="left" src="https://img.icons8.com/windows/32/4a90e2/kaggle.svg"/>
+      <img align="left"  alt="kh_gleb_kaggle" width="40px" src="https://img.icons8.com/windows/32/4a90e2/kaggle.svg"/>
   </a>
 </p> 
