@@ -4,8 +4,6 @@
 * [HSE](https://www.hse.ru/en/), Economics & Data Science. 
 * CFA Level I Passed.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaykingleb&hide=jupyter%20notebook,html&layout=compact)
-
 ### Contacts
 <p align = "left">
   <a href="https://www.linkedin.com/in/khaykingleb">
