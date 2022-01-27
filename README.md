@@ -1,12 +1,10 @@
 > Der Mensch ist etwas, das überwunden werden soll.
 
-### Info
----
+## Info
 * [HSE](https://www.hse.ru/en/), Economics & Data Science. 
 * CFA Level I Passed.
 
-### Stack
----
+## Stack
 #### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -27,8 +25,7 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
 
-### Contacts
----
+## Contacts
 <p align = "left">
   <a href="https://www.linkedin.com/in/khaykingleb">
       <img align="left" alt="kh_gleb_linkedin" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.svg"/>
