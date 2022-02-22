@@ -5,7 +5,7 @@
 * CFA Level I Passed.
 
 ## Stack
-![Top Langs](https://github-readme-stats-mu-olive.vercel.app/api/top-langs/?username=khaykingleb&count_private=true&hide=jupyter%20notebook,html&layout=compact)
+![Top Langs](https://github-readme-stats-mu-olive.vercel.app/api/top-langs/?username=khaykingleb&count_private=true&hide=jupyter%20notebook,stata,html&layout=compact)
 
 
 #### Languages
