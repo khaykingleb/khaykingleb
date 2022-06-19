@@ -20,19 +20,21 @@
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
 
 #### Distributed Systems & Databases
 ![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-017CEE?style=flat-square&logo=Apache%20Hadoop&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=flat-square&logo=apachespark&logoColor=#E35A16)
+![Spark](https://img.shields.io/badge/Apache_Spark-232F3E?style=flat-square&logo=apachespark&logoColor=#E35A16)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-#### IaC
+#### DevOps
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Amazon Web Services (AWS)](https://img.shields.io/badge/-Amazon%20AWS-232F3E?logoColor=white&style=flat-square&logo=amazon-aws)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logoColor=white&style=flat-square&logo=Terraform)
 
 #### Tools
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![Vim](https://img.shields.io/badge/-Vim-019733?logoColor=white&style=flat-square&logo=vim)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
 
