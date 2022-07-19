@@ -7,7 +7,6 @@
 ## Stack
 ![Top Langs](https://github-readme-stats-mu-olive.vercel.app/api/top-langs/?username=khaykingleb&count_private=true&hide=jupyter%20notebook,stata,html&layout=compact)
 
-
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -31,6 +30,7 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Amazon Web Services (AWS)](https://img.shields.io/badge/-Amazon%20AWS-232F3E?logoColor=white&style=flat-square&logo=amazon-aws)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logoColor=white&style=flat-square&logo=Terraform)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logoColor=white&logo=docker)
 
 #### Tools
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
