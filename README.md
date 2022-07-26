@@ -28,6 +28,7 @@
 
 #### DevOps & MLOps
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dataversioncontrol&logoColor=white)
 ![Amazon Web Services (AWS)](https://img.shields.io/badge/-Amazon%20AWS-232F3E?logoColor=white&style=flat-square&logo=amazon-aws)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logoColor=white&style=flat-square&logo=Terraform)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logoColor=white&logo=docker)
