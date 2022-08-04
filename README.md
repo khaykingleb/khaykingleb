@@ -29,6 +29,7 @@
 #### DevOps & MLOps
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dataversioncontrol&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2.svg?style=flat-square&logo=MLflow&logoColor=white)
 ![WB](https://img.shields.io/badge/Weights%20&%20Biases-FFBE00.svg?style=flat-square&logo=weightsandbiases&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logoColor=white&style=flat-square&logo=GItHub-Actions)
 ![Amazon Web Services (AWS)](https://img.shields.io/badge/-Amazon%20AWS-232F3E?logoColor=white&style=flat-square&logo=amazon-aws)
