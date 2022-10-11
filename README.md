@@ -5,7 +5,7 @@
 * [CFA](https://www.cfainstitute.org/en/), Level I Passed.
 
 ## Stack
-![Top Langs](https://github-readme-stats-mu-olive.vercel.app/api/top-langs/?username=khaykingleb&count_private=true&hide=jupyter%20notebook,stata,html,tex&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats-mu-olive.vercel.app/api/top-langs/?username=khaykingleb&count_private=true&hide=jupyter%20notebook,stata,html,tex&layout=compact&langs_count=10)
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
