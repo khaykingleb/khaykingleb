@@ -15,7 +15,6 @@
 
 #### DL & ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![NVIDIA Triton](https://img.shields.io/badge/NVIDIA-76B900.svg?style=flat-square&logo=NVIDIA&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 
 #### DevOps & MLOps
@@ -36,10 +35,10 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=flat-square&logo=Redis&logoColor=white)
 
-#### REST API
+#### API
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=flat-square&logo=FastAPI&logoColor=white)
+![NVIDIA Triton](https://img.shields.io/badge/-NVIDIA%20Triton-8fce00?style=flat-square&logo=NVIDIA&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
-
 
 #### Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
