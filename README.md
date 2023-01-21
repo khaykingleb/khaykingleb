@@ -21,7 +21,7 @@
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?style=flat-square&logo=Pytest&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logoColor=white&style=flat-square&logo=GItHub-Actions)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logoColor=white&style=flat-square&logo=Terraform)
-![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?logoColor=white&style=flat-square&logo=amazon-aws)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logoColor=white&style=flat-square&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logoColor=white&logo=docker)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=flat-square&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=flat-square&logo=Grafana&logoColor=white)
@@ -29,9 +29,9 @@
 ![WB](https://img.shields.io/badge/Weights%20&%20Biases-FFBE00.svg?style=flat-square&logo=weightsandbiases&logoColor=black)
 
 #### Distributed Systems & Databases
-![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-017CEE?style=flat-square&logo=Apache%20Hadoop&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-232F3E?style=flat-square&logo=apachespark&logoColor=#E35A16)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=square&logo=Apache-Kafka&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-017CEE?style=flat-square&logo=Apache%20Hadoop&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-232F3E?style=flat-square&logo=apachespark&logoColor=#E35A16)
+![Kafka](https://img.shields.io/badge/Kafka-231F20.svg?style=flat-square&logo=Apache-Kafka&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=flat-square&logo=Redis&logoColor=white)
 
@@ -43,7 +43,7 @@
 #### Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![Makefile](https://img.shields.io/badge/GNU-A42E2B.svg?style=flat-square&logo=GNU&logoColor=white)
+![Makefile](https://img.shields.io/badge/GNU_Makefile-A42E2B.svg?style=flat-square&logo=GNU&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C.svg?style=flat-square&logo=CMake&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
