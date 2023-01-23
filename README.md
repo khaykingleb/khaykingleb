@@ -3,7 +3,6 @@
 ## Info
 * [HSE](https://www.hse.ru/en/), Economics & Data Science. 
 * [CFA](https://www.cfainstitute.org/en/), Level I Passed.
-* [CV](https://drive.google.com/file/d/1E5vp2OTn07XihFNfouy0cVdQfamkUwkX/view?usp=sharing).
 
 ## Stack
 ![Top Langs](https://github-readme-stats-mu-olive.vercel.app/api/top-langs/?username=khaykingleb&count_private=true&hide=jupyter%20notebook,stata,html,tex,smarty,mako,javascript&layout=compact&langs_count=10)
