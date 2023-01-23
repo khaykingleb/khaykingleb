@@ -43,7 +43,7 @@
 #### Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![Makefile](https://img.shields.io/badge/GNU_Makefile-A42E2B.svg?style=flat-square&logo=GNU&logoColor=white)
+![Makefile](https://img.shields.io/badge/GNU_Make-A42E2B.svg?style=flat-square&logo=GNU&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C.svg?style=flat-square&logo=CMake&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
