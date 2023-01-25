@@ -47,7 +47,6 @@
 ![GNU Make](https://img.shields.io/badge/GNU_Make-A42E2B.svg?style=flat-square&logo=GNU&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C.svg?style=flat-square&logo=CMake&logoColor=white)
 ![Pre-commit][pre-commit]
-![Black][black]
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
 
