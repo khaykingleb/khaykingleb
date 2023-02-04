@@ -14,6 +14,7 @@
 
 #### DL & ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-792EE5.svg?style=flat-square&logo=PyTorch-Lightning&logoColor=white)
 ![CoreML][core-ml]
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 
