@@ -16,6 +16,8 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![Lightning](https://img.shields.io/badge/Lightning-792EE5.svg?style=flat-square&logo=Lightning&logoColor=white)
 ![WB](https://img.shields.io/badge/WandB-FFBE00.svg?style=flat-square&logo=weightsandbiases&logoColor=black)
+![ONNX](https://img.shields.io/badge/ONNX-005CED.svg?style=flat-square&logo=ONNX&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-8fce00?style=flat-square&logo=NVIDIA&logoColor=white)
 ![CoreML][core-ml]
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 
@@ -43,8 +45,8 @@
 
 #### API
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=flat-square&logo=FastAPI&logoColor=white)
-![NVIDIA Triton](https://img.shields.io/badge/-NVIDIA%20Triton-8fce00?style=flat-square&logo=NVIDIA&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
+![NVIDIA Triton](https://img.shields.io/badge/Triton%20Inference%20Server-8fce00?style=flat-square&logo=NVIDIA&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
 
 #### Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=Linux&logoColor=black)
