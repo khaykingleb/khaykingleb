@@ -23,6 +23,7 @@
 
 #### DevOps & MLOps
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logoColor=white&style=flat-square&logo=GItHub-Actions)
+![Semantic Release](https://img.shields.io/badge/Semantic%20Release-494949.svg?style=flat-square&logo=semantic-release&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logoColor=white&style=flat-square&logo=Terraform)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logoColor=white&style=flat-square&logo=amazon-aws)
 ![GCP](https://img.shields.io/badge/GCP-4285F4.svg?style=flat-square&logo=Google-Cloud&logoColor=white)
