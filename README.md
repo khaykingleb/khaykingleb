@@ -62,6 +62,7 @@
 ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=flat-square&logo=JSON&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E.svg?style=flat-square&logo=YAML&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=flat-square&logo=Cloudflare&logoColor=white)
 ![VSC](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 
 
