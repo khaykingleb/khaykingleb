@@ -17,6 +17,9 @@
 ![TensorRT](https://img.shields.io/badge/TensorRT-8fce00?style=flat-square&logo=NVIDIA&logoColor=white)
 ![CoreML][core-ml]
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=flat-square&logo=NumPy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6.svg?style=flat-square&logo=SciPy&logoColor=white)
 
 #### DevOps & MLOps
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logoColor=white&style=flat-square&logo=GItHub-Actions)
