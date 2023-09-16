@@ -30,12 +30,16 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=flat-square&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=flat-square&logo=Grafana&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=flat-square&logo=Cloudflare&logoColor=white)
+![NVIDIA Triton](https://img.shields.io/badge/Triton%20Inference%20Server-8fce00?style=flat-square&logo=NVIDIA&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=flat-square&logo=FastAPI&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539.svg?style=flat-square&logo=OpenAPI-Initiative&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?style=flat-square&logo=Pytest&logoColor=white)
 ![Poetry](https://img.shields.io/badge/Poetry-60A5FA.svg?style=flat-square&logo=Poetry&logoColor=white)
-![Conan](https://img.shields.io/badge/Conan-6699CB.svg?style=flat-square&logo=Conan&logoColor=white)
 ![Hydra][hydra]
 ![Jinja](https://img.shields.io/badge/Jinja-B41717.svg?style=flat-square&logo=Jinja&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-13ADC7.svg?style=flat-square&logo=DVC&logoColor=white)
+![Conan](https://img.shields.io/badge/Conan-6699CB.svg?style=flat-square&logo=Conan&logoColor=white)
 
 #### Distributed Systems & Databases
 ![Hadoop](https://img.shields.io/badge/Hadoop-017CEE?style=flat-square&logo=Apache%20Hadoop&logoColor=white)
@@ -46,13 +50,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=flat-square&logo=Supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=flat-square&logo=Redis&logoColor=white)
 
-#### API
-![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=flat-square&logo=FastAPI&logoColor=white)
-![NVIDIA Triton](https://img.shields.io/badge/Triton%20Inference%20Server-8fce00?style=flat-square&logo=NVIDIA&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539.svg?style=flat-square&logo=OpenAPI-Initiative&logoColor=white)
-
-#### Tools
+#### Miscellaneous
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=Linux&logoColor=black)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
