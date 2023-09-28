@@ -50,6 +50,7 @@
 ![Spark](https://img.shields.io/badge/Spark-232F3E?style=flat-square&logo=apachespark&logoColor=#E35A16)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20.svg?style=flat-square&logo=Apache-Kafka&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A.svg?style=flat-square&logo=Celery&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=flat-square&logo=RabbitMQ&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=flat-square&logo=Supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=flat-square&logo=Redis&logoColor=white)
