@@ -63,9 +63,9 @@
 ![Make](https://img.shields.io/badge/Make-A42E2B.svg?style=flat-square&logo=GNU&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C.svg?style=flat-square&logo=CMake&logoColor=white)
 ![.env](https://img.shields.io/badge/.ENV-ECD53F.svg?style=flat-square&logo=dotenv&logoColor=black)
-![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=flat-square&logo=JSON&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E.svg?style=flat-square&logo=YAML&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
 ![VSC](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 
