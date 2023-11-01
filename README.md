@@ -23,6 +23,7 @@
 #### DevOps & MLOps
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logoColor=white&style=flat-square&logo=GItHub-Actions)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D.svg?style=flat-square&logo=Argo&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?style=flat-square&logo=Pytest&logoColor=white)
 ![Semantic Release](https://img.shields.io/badge/Semantic%20Release-494949.svg?style=flat-square&logo=semantic-release&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logoColor=white&style=flat-square&logo=Terraform)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logoColor=white&style=flat-square&logo=amazon-aws)
@@ -37,11 +38,10 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=flat-square&logo=FastAPI&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539.svg?style=flat-square&logo=OpenAPI-Initiative&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?style=flat-square&logo=Pytest&logoColor=white)
-![Poetry](https://img.shields.io/badge/Poetry-60A5FA.svg?style=flat-square&logo=Poetry&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7.svg?style=flat-square&logo=DVC&logoColor=white)
 ![Hydra][hydra]
 ![Jinja](https://img.shields.io/badge/Jinja-B41717.svg?style=flat-square&logo=Jinja&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-13ADC7.svg?style=flat-square&logo=DVC&logoColor=white)
+![Poetry](https://img.shields.io/badge/Poetry-60A5FA.svg?style=flat-square&logo=Poetry&logoColor=white)
 ![Conan](https://img.shields.io/badge/Conan-6699CB.svg?style=flat-square&logo=Conan&logoColor=white)
 
 #### Distributed Systems & Databases
