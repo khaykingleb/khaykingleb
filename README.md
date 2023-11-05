@@ -15,15 +15,15 @@
 ![ONNX](https://img.shields.io/badge/ONNX-005CED.svg?style=flat-square&logo=ONNX&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/TensorRT-8fce00?style=flat-square&logo=NVIDIA&logoColor=white)
 ![CoreML][core-ml]
-![Colab](https://img.shields.io/badge/Colab-F9AB00.svg?style=flat-square&logo=Google-Colab&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=Jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?style=flat-square&logo=Anaconda&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Vowpal Wabbit](https://img.shields.io/badge/Vowpal%20Wabbit-FF81F9.svg?style=flat-square&logo=Vowpal-Wabbit&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=flat-square&logo=NumPy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6.svg?style=flat-square&logo=SciPy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?style=flat-square&logo=Plotly&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00.svg?style=flat-square&logo=Google-Colab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=Jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?style=flat-square&logo=Anaconda&logoColor=white)
 
 #### Backend & Ops
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logoColor=white&style=flat-square&logo=GItHub-Actions)
