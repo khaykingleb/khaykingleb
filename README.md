@@ -15,7 +15,6 @@
 ![ONNX](https://img.shields.io/badge/ONNX-005CED.svg?style=flat-square&logo=ONNX&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/TensorRT-8fce00?style=flat-square&logo=NVIDIA&logoColor=white)
 ![CoreML][core-ml]
-![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=flat-square&logo=OpenAI&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00.svg?style=flat-square&logo=Google-Colab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=Jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?style=flat-square&logo=Anaconda&logoColor=white)
@@ -66,6 +65,7 @@
 ![S3](https://img.shields.io/badge/S3-569A31.svg?style=flat-square&logo=Amazon-S3&logoColor=white)
 
 #### Miscellaneous
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=flat-square&logo=OpenAI&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=Linux&logoColor=black)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733.svg?style=flat-square&logo=Vim&logoColor=white)
