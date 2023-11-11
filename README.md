@@ -64,9 +64,12 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=flat-square&logo=Supabase&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31.svg?style=flat-square&logo=Amazon-S3&logoColor=white)
+![R2](https://img.shields.io/badge/R2-F38020.svg?style=flat-square&logo=Cloudflare&logoColor=white)
+
 
 #### Miscellaneous
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=flat-square&logo=OpenAI&logoColor=white)
+![VSC](https://img.shields.io/badge/VSCode-007ACC.svg?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=Linux&logoColor=black)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733.svg?style=flat-square&logo=Vim&logoColor=white)
@@ -79,12 +82,11 @@
 ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=flat-square&logo=JSON&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E.svg?style=flat-square&logo=YAML&logoColor=white)
 ![TOML](https://img.shields.io/badge/TOML-9C4121.svg?style=flat-square&logo=TOML&logoColor=white)
+![Diagrams](https://img.shields.io/badge/Diagrams.net-F08705.svg?style=flat-square&logo=diagramsdotnet&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
-![Diagrams](https://img.shields.io/badge/Diagrams.net-F08705.svg?style=flat-square&logo=diagramsdotnet&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=flat-square&logo=Jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=Notion&logoColor=white)
-![VSC](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=flat-square&logo=Jira&logoColor=white)
 
 
 [core-ml]: https://img.shields.io/badge/CoreML-0A9EDC.svg?style=flat-square&logo=data:image/png;base64,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
