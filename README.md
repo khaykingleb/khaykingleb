@@ -57,6 +57,7 @@
 #### Distributed Systems & Databases
 ![Hadoop](https://img.shields.io/badge/Hadoop-017CEE?style=flat-square&logo=Apache%20Hadoop&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-232F3E?style=flat-square&logo=apachespark&logoColor=#E35A16)
+![Databrics](https://img.shields.io/badge/Databricks-FF3621.svg?style=flat-square&logo=Databricks&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20.svg?style=flat-square&logo=Apache-Kafka&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A.svg?style=flat-square&logo=Celery&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=flat-square&logo=RabbitMQ&logoColor=white)
