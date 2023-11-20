@@ -90,6 +90,7 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=Notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=flat-square&logo=Slack&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=flat-square&logo=Jira&logoColor=white)
 
 
