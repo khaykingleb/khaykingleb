@@ -27,7 +27,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=flat-square&logo=FastAPI&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063.svg?style=flat-square&logo=Pydantic&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70?logo=letsencrypt&logoColor=fff&style=flat-square)
+![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt%20ACME-003A70?logo=letsencrypt&logoColor=fff&style=flat-square)
 ![Jinja](https://img.shields.io/badge/Jinja-B41717.svg?style=flat-square&logo=Jinja&logoColor=white)
 ![Hydra][hydra]
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logoColor=white&style=flat-square&logo=GItHub-Actions)
@@ -84,6 +84,7 @@
 ![Tmux](https://img.shields.io/badge/Tmux-1BB91F.svg?style=flat-square&logo=tmux&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733.svg?style=flat-square&logo=Vim&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808.svg?style=flat-square&logo=FFmpeg&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=fff&style=flat-square)
 ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=flat-square&logo=JSON&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E.svg?style=flat-square&logo=YAML&logoColor=white)
 ![TOML](https://img.shields.io/badge/TOML-9C4121.svg?style=flat-square&logo=TOML&logoColor=white)
