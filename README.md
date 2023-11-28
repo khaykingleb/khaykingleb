@@ -11,6 +11,7 @@
 
 #### Backend & Ops
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logoColor=white&style=flat-square&logo=Terraform)
+![Infracost](https://img.shields.io/badge/Infracost-DB44B8?logo=infracost&logoColor=fff&style=flat-square)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logoColor=white&style=flat-square&logo=amazon-aws)
 ![GCP](https://img.shields.io/badge/GCP-4285F4.svg?style=flat-square&logo=Google-Cloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=flat-square&logo=Cloudflare&logoColor=white)
