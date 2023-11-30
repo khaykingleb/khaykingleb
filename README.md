@@ -43,6 +43,7 @@
 ![Conventional Commits](https://img.shields.io/badge/-Conventional_Commits-FE5196?style=flat-square&logo=Conventional-Commits&logoColor=white)
 ![Semantic Release](https://img.shields.io/badge/Semantic%20Release-494949.svg?style=flat-square&logo=semantic-release&logoColor=white)
 ![Poetry](https://img.shields.io/badge/Poetry-60A5FA.svg?style=flat-square&logo=Poetry&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Conda-44A833.svg?style=flat-square&logo=Anaconda&logoColor=white)
 ![Conan](https://img.shields.io/badge/Conan-6699CB.svg?style=flat-square&logo=Conan&logoColor=white)
 
 #### Distributed Systems & Databases & Analytics
@@ -74,7 +75,6 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?style=flat-square&logo=Plotly&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00.svg?style=flat-square&logo=Google-Colab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=Jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?style=flat-square&logo=Anaconda&logoColor=white)
 
 #### Miscellaneous
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=flat-square&logo=OpenAI&logoColor=white)
