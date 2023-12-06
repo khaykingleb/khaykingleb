@@ -58,6 +58,7 @@
 ![S3](https://img.shields.io/badge/S3-569A31.svg?style=flat-square&logo=Amazon-S3&logoColor=white)
 ![R2](https://img.shields.io/badge/R2-F38020.svg?style=flat-square&logo=Cloudflare&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat-square&logo=Firebase&logoColor=black)
+![Airtable Badge](https://img.shields.io/badge/Airtable-18BFFF?logo=airtable&logoColor=fff&style=flat-square)
 ![Databrics](https://img.shields.io/badge/Databricks-FF3621.svg?style=flat-square&logo=Databricks&logoColor=white)
 
 #### DL & ML
