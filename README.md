@@ -17,6 +17,7 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=flat-square&logo=Cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logoColor=white&logo=docker)
 ![K8s](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white)
+![K3s](https://img.shields.io/badge/K3s-FFC61C?logo=k3s&logoColor=000&style=flat-square)
 ![Helm](https://img.shields.io/badge/Helm-0F1689.svg?style=flat-square&logo=Helm&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=flat-square&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=flat-square&logo=Grafana&logoColor=white)
