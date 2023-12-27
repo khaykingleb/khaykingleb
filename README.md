@@ -20,6 +20,7 @@
 ![K3s](https://img.shields.io/badge/K3s-FFC61C?logo=k3s&logoColor=000&style=flat-square)
 ![Helm](https://img.shields.io/badge/Helm-0F1689.svg?style=flat-square&logo=Helm&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=flat-square&logo=Prometheus&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F7D01F.svg?style=flat-square&logo=Grafana&logoColor=black)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=flat-square&logo=Grafana&logoColor=white)
 ![NVIDIA Triton](https://img.shields.io/badge/Triton%20Inference%20Server-8fce00?style=flat-square&logo=NVIDIA&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-13ADC7.svg?style=flat-square&logo=DVC&logoColor=white)
