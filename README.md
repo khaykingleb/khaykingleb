@@ -52,17 +52,17 @@
 #### Distributed Systems & Databases & Analytics
 ![Hadoop](https://img.shields.io/badge/Hadoop-017CEE?style=flat-square&logo=Apache%20Hadoop&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C.svg?style=flat-square&logo=Apache-Spark&logoColor=white)
+![Databrics](https://img.shields.io/badge/Databricks-FF3621.svg?style=flat-square&logo=Databricks&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20.svg?style=flat-square&logo=Apache-Kafka&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A.svg?style=flat-square&logo=Celery&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=flat-square&logo=RabbitMQ&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=flat-square&logo=Redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=flat-square&logo=Supabase&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31.svg?style=flat-square&logo=Amazon-S3&logoColor=white)
 ![R2](https://img.shields.io/badge/R2-F38020.svg?style=flat-square&logo=Cloudflare&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=flat-square&logo=Supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat-square&logo=Firebase&logoColor=black)
-![Airtable Badge](https://img.shields.io/badge/Airtable-18BFFF?logo=airtable&logoColor=fff&style=flat-square)
-![Databrics](https://img.shields.io/badge/Databricks-FF3621.svg?style=flat-square&logo=Databricks&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?logo=airtable&logoColor=fff&style=flat-square)
 
 #### DL & ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
