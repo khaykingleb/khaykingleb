@@ -37,7 +37,7 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logoColor=white&style=flat-square&logo=GItHub-Actions)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D.svg?style=flat-square&logo=Argo&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?style=flat-square&logo=Pytest&logoColor=white)
-![Ruff](https://img.shields.io/badge/Ruff-FCC21B.svg?style=flat-square&logo=Ruff&logoColor=black)
+![Ruff](https://img.shields.io/badge/Ruff-D7FF64?logo=ruff&logoColor=000&style=flat-square)
 ![Detect Secrets](https://img.shields.io/badge/Detect%20Secrets-FF1A1A.svg?style=flat-square&logo=Yelp&logoColor=white)
 ![Pre-commit](https://img.shields.io/badge/Pre--commit-FAB040.svg?style=flat-square&logo=pre-commit&logoColor=black)
 ![Make](https://img.shields.io/badge/Make-A42E2B.svg?style=flat-square&logo=GNU&logoColor=white)
