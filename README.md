@@ -98,6 +98,7 @@
 ![TOML](https://img.shields.io/badge/TOML-9C4121.svg?style=flat-square&logo=TOML&logoColor=white)
 ![Diagrams](https://img.shields.io/badge/Diagrams.net-F08705.svg?style=flat-square&logo=diagramsdotnet&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
+![arXiv](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=flat-square)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=Notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=flat-square&logo=Slack&logoColor=white)
