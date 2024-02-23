@@ -40,6 +40,7 @@
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?style=flat-square&logo=Pytest&logoColor=white)
 ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?logo=ruff&logoColor=000&style=flat-square)
 ![Detect Secrets](https://img.shields.io/badge/Detect%20Secrets-FF1A1A.svg?style=flat-square&logo=Yelp&logoColor=white)
+![Commitlint](https://img.shields.io/badge/Commitlint-000?logo=commitlint&logoColor=fff&style=flat-square)
 ![Pre-commit](https://img.shields.io/badge/Pre--commit-FAB040.svg?style=flat-square&logo=pre-commit&logoColor=black)
 ![Make](https://img.shields.io/badge/Make-A42E2B.svg?style=flat-square&logo=GNU&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C.svg?style=flat-square&logo=CMake&logoColor=white)
