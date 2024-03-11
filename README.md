@@ -16,6 +16,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logoColor=white&style=flat-square&logo=amazon-aws)
 ![GCP](https://img.shields.io/badge/GCP-4285F4.svg?style=flat-square&logo=Google-Cloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=flat-square&logo=Cloudflare&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-E00?logo=ansible&logoColor=fff&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logoColor=white&logo=docker)
 ![K8s](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white)
 ![K3s](https://img.shields.io/badge/K3s-FFC61C?logo=k3s&logoColor=000&style=flat-square)
