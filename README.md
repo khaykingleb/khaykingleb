@@ -31,6 +31,7 @@
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539.svg?style=flat-square&logo=OpenAPI-Initiative&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=flat-square&logo=FastAPI&logoColor=white)
+![AIOHTTP](https://img.shields.io/badge/AIOHTTP-2C5BB4?logo=aiohttp&logoColor=fff&style=flat-square)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063.svg?style=flat-square&logo=Pydantic&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt%20ACME-003A70?logo=letsencrypt&logoColor=fff&style=flat-square)
