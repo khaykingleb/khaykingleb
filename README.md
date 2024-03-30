@@ -68,6 +68,7 @@
 ![Poetry](https://img.shields.io/badge/Poetry-60A5FA.svg?style=flat-square&logo=Poetry&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Conda-44A833.svg?style=flat-square&logo=Anaconda&logoColor=white)
 ![Conan](https://img.shields.io/badge/Conan-6699CB.svg?style=flat-square&logo=Conan&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=flat-square)
 
 #### Big Data & Databases & Analytics
 ![Hadoop](https://img.shields.io/badge/Hadoop-017CEE?style=flat-square&logo=Apache%20Hadoop&logoColor=white)
