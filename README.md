@@ -14,6 +14,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)
 ![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=flat-square)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=flat-square)
+
 
 #### Backend
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539.svg?style=flat-square&logo=OpenAPI-Initiative&logoColor=white)
@@ -68,7 +70,6 @@
 ![Poetry](https://img.shields.io/badge/Poetry-60A5FA.svg?style=flat-square&logo=Poetry&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Conda-44A833.svg?style=flat-square&logo=Anaconda&logoColor=white)
 ![Conan](https://img.shields.io/badge/Conan-6699CB.svg?style=flat-square&logo=Conan&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=flat-square)
 
 #### Big Data & Databases & Analytics
 ![Hadoop](https://img.shields.io/badge/Hadoop-017CEE?style=flat-square&logo=Apache%20Hadoop&logoColor=white)
