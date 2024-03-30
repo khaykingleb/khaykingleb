@@ -14,8 +14,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=000&style=flat-square)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=flat-square)
-![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=flat-square)
+![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat-square)
+![pnpm](https://img.shields.io/badge/Pnpm-F69220?logo=Pnpm&logoColor=fff&style=flat-square)
+![npm](https://img.shields.io/badge/Npm-CB3837?logo=npm&logoColor=fff&style=flat-square)
 
 #### Backend
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539.svg?style=flat-square&logo=OpenAPI-Initiative&logoColor=white)
