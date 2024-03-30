@@ -17,7 +17,6 @@
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=flat-square)
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=flat-square)
 
-
 #### Backend
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539.svg?style=flat-square&logo=OpenAPI-Initiative&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
@@ -28,33 +27,33 @@
 ![Kafka](https://img.shields.io/badge/Kafka-231F20.svg?style=flat-square&logo=Apache-Kafka&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A.svg?style=flat-square&logo=Celery&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=flat-square&logo=RabbitMQ&logoColor=white)
+![Jinja](https://img.shields.io/badge/Jinja-B41717.svg?style=flat-square&logo=Jinja&logoColor=white)
+![Hydra][hydra]
 
 #### DevOps & MLOps
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logoColor=white&style=flat-square&logo=Terraform)
-![Infracost](https://img.shields.io/badge/Infracost-DB44B8?logo=infracost&logoColor=fff&style=flat-square)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logoColor=white&style=flat-square&logo=amazon-aws)
-![GCP](https://img.shields.io/badge/GCP-4285F4.svg?style=flat-square&logo=Google-Cloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=flat-square&logo=Cloudflare&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-E00?logo=ansible&logoColor=fff&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logoColor=white&logo=docker)
 ![K8s](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white)
 ![K3s](https://img.shields.io/badge/K3s-FFC61C?logo=k3s&logoColor=000&style=flat-square)
 ![Helm](https://img.shields.io/badge/Helm-0F1689.svg?style=flat-square&logo=Helm&logoColor=white)
+![Infracost](https://img.shields.io/badge/Infracost-DB44B8?logo=infracost&logoColor=fff&style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logoColor=white&style=flat-square&logo=amazon-aws)
+![GCP](https://img.shields.io/badge/GCP-4285F4.svg?style=flat-square&logo=Google-Cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=flat-square&logo=Cloudflare&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=flat-square&logo=Prometheus&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-F7D01F.svg?style=flat-square&logo=Grafana&logoColor=black)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=flat-square&logo=Grafana&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639.svg?style=flat-square&logo=NGINX&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?logo=traefikproxy&logoColor=fff&style=flat-square)
+![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt%20ACME-003A70?logo=letsencrypt&logoColor=fff&style=flat-square)
+![Namecheap](https://img.shields.io/badge/Namecheap-DE3723?logo=namecheap&logoColor=fff&style=flat-square)
 ![NVIDIA Triton](https://img.shields.io/badge/Triton%20Inference%20Server-8fce00?style=flat-square&logo=NVIDIA&logoColor=white)
 ![TorchScript](https://img.shields.io/badge/TorchScript-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED.svg?style=flat-square&logo=ONNX&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/TensorRT-8fce00?style=flat-square&logo=NVIDIA&logoColor=white)
 ![CoreML][core-ml]
 ![DVC](https://img.shields.io/badge/DVC-13ADC7.svg?style=flat-square&logo=DVC&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639.svg?style=flat-square&logo=NGINX&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?logo=traefikproxy&logoColor=fff&style=flat-square)
-![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt%20ACME-003A70?logo=letsencrypt&logoColor=fff&style=flat-square)
-![Namecheap](https://img.shields.io/badge/Namecheap-DE3723?logo=namecheap&logoColor=fff&style=flat-square)
-![Jinja](https://img.shields.io/badge/Jinja-B41717.svg?style=flat-square&logo=Jinja&logoColor=white)
-![Hydra][hydra]
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logoColor=white&style=flat-square&logo=GItHub-Actions)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D.svg?style=flat-square&logo=Argo&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?style=flat-square&logo=Pytest&logoColor=white)
