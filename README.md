@@ -88,6 +88,8 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![Lightning](https://img.shields.io/badge/Lightning-792EE5.svg?style=flat-square&logo=Lightning&logoColor=white)
 ![WB](https://img.shields.io/badge/WandB-FFBE00.svg?style=flat-square&logo=weightsandbiases&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFC61C?style=flat-square&logoColor=yellow)
+![Nemo](https://img.shields.io/badge/Nemo-8fce00?style=flat-square&logo=NVIDIA&logoColor=white)
 ![Vowpal Wabbit](https://img.shields.io/badge/Vowpal%20Wabbit-FF81F9.svg?style=flat-square&logo=Vowpal-Wabbit&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=flat-square&logo=NumPy&logoColor=white)
