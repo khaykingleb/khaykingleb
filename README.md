@@ -110,6 +110,7 @@
 ![Tmux](https://img.shields.io/badge/Tmux-1BB91F.svg?style=flat-square&logo=tmux&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733.svg?style=flat-square&logo=Vim&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808.svg?style=flat-square&logo=FFmpeg&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=fff&style=flat-square)
 ![Protobuf](http://img.shields.io/badge/-<>%20Protobuf-00A98F?style=flat-square&logo=grpc&logoColor=ffffff)
 ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=flat-square&logo=JSON&logoColor=white)
