@@ -108,6 +108,7 @@
 ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![.env](https://img.shields.io/badge/.ENV-ECD53F.svg?style=flat-square&logo=dotenv&logoColor=black)
+![LLVM](https://img.shields.io/badge/LLVM-262D3A?logo=llvm&logoColor=fff&style=flat-square)
 ![Tmux](https://img.shields.io/badge/Tmux-1BB91F.svg?style=flat-square&logo=tmux&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733.svg?style=flat-square&logo=Vim&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808.svg?style=flat-square&logo=FFmpeg&logoColor=white)
