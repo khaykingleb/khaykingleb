@@ -18,9 +18,9 @@
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=fff&style=flat-square)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=fff&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square)
 ![pnpm](https://img.shields.io/badge/Pnpm-F69220?logo=Pnpm&logoColor=fff&style=flat-square)
 ![npm](https://img.shields.io/badge/Npm-CB3837?logo=npm&logoColor=fff&style=flat-square)
 
