@@ -8,22 +8,16 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=flat-square&logo=Go&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![SQL][sql]
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logoColor=white&style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
 
-#### Web
+#### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logoColor=white&style=flat-square&logo=typescript)
 ![Remix](https://img.shields.io/badge/Remix-000?logo=remix&logoColor=fff&style=flat-square)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat-square)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=fff&style=flat-square)
-![Stylelint](https://img.shields.io/badge/Stylelint-263238?logo=stylelint&logoColor=fff&style=flat-square)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=fff&style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square)
-![pnpm](https://img.shields.io/badge/Pnpm-F69220?logo=Pnpm&logoColor=fff&style=flat-square)
-![npm](https://img.shields.io/badge/Npm-CB3837?logo=npm&logoColor=fff&style=flat-square)
 
 #### Backend
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539.svg?style=flat-square&logo=OpenAPI-Initiative&logoColor=white)
@@ -37,6 +31,7 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=flat-square&logo=RabbitMQ&logoColor=white)
 ![Jinja](https://img.shields.io/badge/Jinja-B41717.svg?style=flat-square&logo=Jinja&logoColor=white)
 ![Hydra][hydra]
+![Node.js](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square)
 
 #### DevOps & MLOps
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logoColor=white&style=flat-square&logo=Terraform)
@@ -63,13 +58,16 @@
 ![DVC](https://img.shields.io/badge/DVC-13ADC7.svg?style=flat-square&logo=DVC&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D.svg?style=flat-square&logo=Argo&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logoColor=white&style=flat-square&logo=GItHub-Actions)
+![Pre-commit](https://img.shields.io/badge/Pre--commit-FAB040.svg?style=flat-square&logo=pre-commit&logoColor=black)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?style=flat-square&logo=Pytest&logoColor=white)
 ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?logo=ruff&logoColor=000&style=flat-square)
 ![PyCQA](https://img.shields.io/badge/PyCQA-201B44?logo=pycqa&logoColor=fff&style=flat-square)
 ![Detect Secrets](https://img.shields.io/badge/Detect%20Secrets-FF1A1A.svg?style=flat-square&logo=Yelp&logoColor=white)
 ![Infracost](https://img.shields.io/badge/Infracost-DB44B8?logo=infracost&logoColor=fff&style=flat-square)
 ![Commitlint](https://img.shields.io/badge/Commitlint-000?logo=commitlint&logoColor=fff&style=flat-square)
-![Pre-commit](https://img.shields.io/badge/Pre--commit-FAB040.svg?style=flat-square&logo=pre-commit&logoColor=black)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=fff&style=flat-square)
+![Stylelint](https://img.shields.io/badge/Stylelint-263238?logo=stylelint&logoColor=fff&style=flat-square)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=fff&style=flat-square)
 ![Conventional Commits](https://img.shields.io/badge/-Conventional_Commits-FE5196?style=flat-square&logo=Conventional-Commits&logoColor=white)
 ![SemVer](https://img.shields.io/badge/SemVer-3F4551.svg?style=flat-square&logo=SemVer&logoColor=white)
 ![Semantic Release](https://img.shields.io/badge/Semantic%20Release-494949.svg?style=flat-square&logo=semantic-release&logoColor=white)
@@ -78,6 +76,8 @@
 ![Poetry](https://img.shields.io/badge/Poetry-60A5FA.svg?style=flat-square&logo=Poetry&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Conda-44A833.svg?style=flat-square&logo=Anaconda&logoColor=white)
 ![Conan](https://img.shields.io/badge/Conan-6699CB.svg?style=flat-square&logo=Conan&logoColor=white)
+![pnpm](https://img.shields.io/badge/Pnpm-F69220?logo=Pnpm&logoColor=fff&style=flat-square)
+![npm](https://img.shields.io/badge/Npm-CB3837?logo=npm&logoColor=fff&style=flat-square)
 
 #### Big Data & Databases & Analytics
 ![Hadoop](https://img.shields.io/badge/Hadoop-017CEE?style=flat-square&logo=Apache%20Hadoop&logoColor=white)
