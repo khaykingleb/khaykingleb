@@ -44,6 +44,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logoColor=white&style=flat-square&logo=amazon-aws)
 ![GCP](https://img.shields.io/badge/GCP-4285F4.svg?style=flat-square&logo=Google-Cloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=flat-square&logo=Cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat-square)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=flat-square&logo=Prometheus&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-F7D01F.svg?style=flat-square&logo=Grafana&logoColor=black)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=flat-square&logo=Grafana&logoColor=white)
