@@ -113,7 +113,7 @@
 ![MacOs](https://img.shields.io/badge/MacOS-000?logo=macos&logoColor=fff&style=plastic)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=plastic&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![.env](https://img.shields.io/badge/.ENV-ECD53F.svg?style=plastic&logo=dotenv&logoColor=white)
+![.env](https://img.shields.io/badge/.ENV-ECD53F.svg?style=plastic&logo=dotenv&logoColor=black)
 ![LLVM](https://img.shields.io/badge/LLVM-262D3A?logo=llvm&logoColor=fff&style=plastic)
 ![Brew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff&style=plastic)
 ![Tmux](https://img.shields.io/badge/Tmux-1BB91F.svg?style=plastic&logo=tmux&logoColor=white)
