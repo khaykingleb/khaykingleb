@@ -14,7 +14,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=plastic)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=plastic)
 ![Remix](https://img.shields.io/badge/Remix-000?logo=remix&logoColor=fff&style=plastic)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=plastic)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=fff&style=plastic)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=plastic)
 
@@ -95,7 +95,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
 ![Lightning](https://img.shields.io/badge/Lightning-792EE5.svg?style=plastic&logo=Lightning&logoColor=white)
 ![WB](https://img.shields.io/badge/WandB-FFBE00.svg?style=plastic&logo=weightsandbiases&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=plastic&logo=HuggingFace&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=plastic&logo=HuggingFace&logoColor=black)
 ![Nemo](https://img.shields.io/badge/Nemo-8fce00?style=plastic&logo=NVIDIA&logoColor=white)
 ![Vowpal Wabbit](https://img.shields.io/badge/Vowpal%20Wabbit-FF81F9.svg?style=plastic&logo=Vowpal-Wabbit&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
@@ -109,7 +109,7 @@
 #### Miscellaneous
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=plastic&logo=OpenAI&logoColor=white)
 ![VSC](https://img.shields.io/badge/VSCode-007ACC.svg?style=plastic&logo=Visual-Studio-Code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=plastic&logo=Linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=plastic&logo=Linux&logoColor=black)
 ![MacOs](https://img.shields.io/badge/MacOS-000?logo=macos&logoColor=fff&style=plastic)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=plastic&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
