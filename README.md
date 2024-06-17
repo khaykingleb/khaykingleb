@@ -83,7 +83,7 @@
 ![Hadoop](https://img.shields.io/badge/Hadoop-017CEE?style=plastic&logo=Apache%20Hadoop&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C.svg?style=plastic&logo=Apache-Spark&logoColor=white)
 ![Databrics](https://img.shields.io/badge/Databricks-FF3621.svg?style=plastic&logo=Databricks&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=plastic&logo=Redis&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=plastic)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31.svg?style=plastic&logo=Amazon-S3&logoColor=white)
 ![R2](https://img.shields.io/badge/R2-F38020.svg?style=plastic&logo=Cloudflare&logoColor=white)
