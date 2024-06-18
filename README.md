@@ -50,12 +50,13 @@
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?logo=traefikproxy&logoColor=fff&style=plastic)
 ![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt%20ACME-003A70?logo=letsencrypt&logoColor=fff&style=plastic)
 ![Namecheap](https://img.shields.io/badge/Namecheap-DE3723?logo=namecheap&logoColor=fff&style=plastic)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=plastic&logo=LangChain&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7.svg?style=plastic&logo=DVC&logoColor=white)
 ![NVIDIA Triton](https://img.shields.io/badge/Triton%20Inference%20Server-8fce00?style=plastic&logo=NVIDIA&logoColor=white)
 ![TorchScript](https://img.shields.io/badge/TorchScript-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED.svg?style=plastic&logo=ONNX&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/TensorRT-8fce00?style=plastic&logo=NVIDIA&logoColor=white)
 ![CoreML][core-ml]
-![DVC](https://img.shields.io/badge/DVC-13ADC7.svg?style=plastic&logo=DVC&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D.svg?style=plastic&logo=Argo&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logoColor=white&style=plastic&logo=GItHub-Actions)
 ![Pre-commit](https://img.shields.io/badge/Pre--commit-FAB040.svg?style=plastic&logo=pre-commit&logoColor=white)
@@ -107,6 +108,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=plastic&logo=Jupyter&logoColor=white)
 
 #### Miscellaneous
+![Anki](https://img.shields.io/badge/Anki-80C2EE?style=plastic&logo=anki&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=plastic&logo=OpenAI&logoColor=white)
 ![VSC](https://img.shields.io/badge/VSCode-007ACC.svg?style=plastic&logo=Visual-Studio-Code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=plastic&logo=Linux&logoColor=black)
