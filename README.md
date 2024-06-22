@@ -41,6 +41,7 @@
 ![Helm](https://img.shields.io/badge/Helm-0F1689.svg?style=plastic&logo=Helm&logoColor=white)
 ![Fargate](https://img.shields.io/badge/Fargate-F90?logo=awsfargate&logoColor=fff&style=plastic)
 ![Lambda](https://img.shields.io/badge/Lambda-F90?logo=awslambda&logoColor=fff&style=plastic)
+![Modal](https://img.shields.io/badge/Modal-7FEE64?logo=modal&logoColor=fff&style=plastic)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logoColor=white&style=plastic&logo=amazonwebservices)
 ![GCP](https://img.shields.io/badge/GCP-4285F4.svg?style=plastic&logo=Google-Cloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=plastic&logo=Cloudflare&logoColor=white)
