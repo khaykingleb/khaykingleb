@@ -5,8 +5,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=plastic)
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=plastic&logo=Go&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
 ![SQL][sql]
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logoColor=white&style=plastic&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&Color=white&style=plastic)
 
