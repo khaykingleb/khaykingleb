@@ -119,6 +119,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=plastic&logo=OpenAI&logoColor=white)
 ![VSC](https://img.shields.io/badge/VSCode-007ACC.svg?style=plastic&logo=Visual-Studio-Code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=plastic&logo=Linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=plastic)
 ![MacOs](https://img.shields.io/badge/MacOS-000?logo=macos&logoColor=fff&style=plastic)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=plastic&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
