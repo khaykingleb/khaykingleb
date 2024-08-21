@@ -1,12 +1,12 @@
-## Stack
+## Worked with
 ![Top Langs](https://github-readme-stats-mu-olive.vercel.app/api/top-langs/?username=khaykingleb&count_private=true&hide=jupyter%20notebook,stata,html,smarty,mako,CSS&layout=compact&langs_count=10)
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=plastic)
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=plastic&logo=Go&logoColor=white)
-![SQL][sql]
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
+![SQL][sql]
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logoColor=white&style=plastic&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&Color=white&style=plastic)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=plastic)
@@ -42,16 +42,16 @@
 ![K8s](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=plastic&logo=kubernetes&logoColor=white)
 ![K3s](https://img.shields.io/badge/K3s-FFC61C?logo=k3s&logoColor=white&style=plastic)
 ![Helm](https://img.shields.io/badge/Helm-0F1689.svg?style=plastic&logo=Helm&logoColor=white)
-![Fargate](https://img.shields.io/badge/Fargate-F90?logo=awsfargate&logoColor=fff&style=plastic)
-![Lambda](https://img.shields.io/badge/Lambda-F90?logo=awslambda&logoColor=fff&style=plastic)
-![Modal](https://img.shields.io/badge/Modal-7FEE64?logo=modal&logoColor=fff&style=plastic)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logoColor=white&style=plastic&logo=amazonwebservices)
 ![GCP](https://img.shields.io/badge/GCP-4285F4.svg?style=plastic&logo=Google-Cloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=plastic&logo=Cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=plastic)
+![Fargate](https://img.shields.io/badge/Fargate-F90?logo=awsfargate&logoColor=fff&style=plastic)
+![Lambda](https://img.shields.io/badge/Lambda-F90?logo=awslambda&logoColor=fff&style=plastic)
+![Modal](https://img.shields.io/badge/Modal-7FEE64?logo=modal&logoColor=fff&style=plastic)
+![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=plastic&logo=Grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=plastic&logo=Prometheus&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-F7D01F.svg?style=plastic&logo=Grafana&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=plastic&logo=Grafana&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639.svg?style=plastic&logo=NGINX&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?logo=traefikproxy&logoColor=fff&style=plastic)
 ![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt%20ACME-003A70?logo=letsencrypt&logoColor=fff&style=plastic)
@@ -68,6 +68,7 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logoColor=white&style=plastic&logo=GItHub-Actions)
 ![Pre-commit](https://img.shields.io/badge/Pre--commit-FAB040.svg?style=plastic&logo=pre-commit&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?style=plastic&logo=Pytest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff&style=plastic)
 ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?logo=ruff&logoColor=000&style=plastic)
 ![PyCQA](https://img.shields.io/badge/PyCQA-201B44?logo=pycqa&logoColor=fff&style=plastic)
 ![Detect Secrets](https://img.shields.io/badge/Detect%20Secrets-FF1A1A.svg?style=plastic&logo=Yelp&logoColor=white)
@@ -103,7 +104,7 @@
 #### DL & ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
 ![Lightning](https://img.shields.io/badge/Lightning-792EE5.svg?style=plastic&logo=Lightning&logoColor=white)
-![WB](https://img.shields.io/badge/WandB-FFBE00.svg?style=plastic&logo=weightsandbiases&logoColor=white)
+![WB](https://img.shields.io/badge/W&B-FFBE00.svg?style=plastic&logo=weightsandbiases&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=plastic&logo=HuggingFace&logoColor=black)
 ![Nemo](https://img.shields.io/badge/Nemo-8fce00?style=plastic&logo=NVIDIA&logoColor=white)
 ![Vowpal Wabbit](https://img.shields.io/badge/Vowpal%20Wabbit-FF81F9.svg?style=plastic&logo=Vowpal-Wabbit&logoColor=white)
