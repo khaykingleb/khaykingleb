@@ -52,7 +52,7 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=plastic&logo=Grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=plastic&logo=Prometheus&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-F7D01F.svg?style=plastic&logo=Grafana&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639.svg?style=plastic&logo=NGINX&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=plastic&logo=NGINX&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?logo=traefikproxy&logoColor=fff&style=plastic)
 ![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt%20ACME-003A70?logo=letsencrypt&logoColor=fff&style=plastic)
 ![Namecheap](https://img.shields.io/badge/Namecheap-DE3723?logo=namecheap&logoColor=fff&style=plastic)
