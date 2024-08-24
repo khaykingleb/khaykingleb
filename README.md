@@ -88,7 +88,7 @@
 ![pnpm](https://img.shields.io/badge/Pnpm-F69220?logo=Pnpm&logoColor=fff&style=plastic)
 ![npm](https://img.shields.io/badge/Npm-CB3837?logo=npm&logoColor=fff&style=plastic)
 
-#### Big Data & Databases & Analytics
+#### Data & Databases & Analytics
 ![Hadoop](https://img.shields.io/badge/Hadoop-017CEE?style=plastic&logo=Apache%20Hadoop&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C.svg?style=plastic&logo=Apache-Spark&logoColor=white)
 ![Databrics](https://img.shields.io/badge/Databricks-FF3621.svg?style=plastic&logo=Databricks&logoColor=white)
