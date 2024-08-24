@@ -1,4 +1,4 @@
-## Worked with
+## Stack
 ![Top Langs](https://github-readme-stats-mu-olive.vercel.app/api/top-langs/?username=khaykingleb&count_private=true&hide=jupyter%20notebook,stata,html,smarty,mako,CSS&layout=compact&langs_count=10)
 
 #### Languages
@@ -101,7 +101,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=plastic&logo=Firebase&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?logo=airtable&logoColor=fff&style=plastic)
 
-#### DL & ML
+#### R&D
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
 ![Lightning](https://img.shields.io/badge/Lightning-792EE5.svg?style=plastic&logo=Lightning&logoColor=white)
 ![WB](https://img.shields.io/badge/W&B-FFBE00.svg?style=plastic&logo=weightsandbiases&logoColor=white)
