@@ -95,6 +95,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=plastic)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
 ![Sqitch][sqitch]
+![PGVector](https://img.shields.io/badge/PGVector-209CEE?style=plastic&logo=postgresql&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31.svg?style=plastic&logo=Amazon-S3&logoColor=white)
 ![R2](https://img.shields.io/badge/R2-F38020.svg?style=plastic&logo=Cloudflare&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=plastic&logo=Supabase&logoColor=white)
