@@ -22,6 +22,7 @@
 #### Backend
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539.svg?style=plastic&logo=OpenAPI-Initiative&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)
+![Protobuf](http://img.shields.io/badge/-<>%20gRPC-00A98F?style=plastic&logo=grpc&logoColor=ffffff)
 ![AIOHTTP](https://img.shields.io/badge/AsyncIO-2C5BB4?logo=aiohttp&logoColor=fff&style=plastic)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=plastic&logo=FastAPI&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063.svg?style=plastic&logo=Pydantic&logoColor=white)
