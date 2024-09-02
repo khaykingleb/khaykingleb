@@ -18,6 +18,9 @@
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=plastic)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=fff&style=plastic)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=plastic)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=fff&style=plastic)
+![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=plastic)
+
 
 #### Backend
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539.svg?style=plastic&logo=OpenAPI-Initiative&logoColor=white)
@@ -46,7 +49,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logoColor=white&style=plastic&logo=amazonwebservices)
 ![GCP](https://img.shields.io/badge/GCP-4285F4.svg?style=plastic&logo=Google-Cloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=plastic&logo=Cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=plastic)
 ![Fargate](https://img.shields.io/badge/Fargate-F90?logo=awsfargate&logoColor=fff&style=plastic)
 ![Lambda](https://img.shields.io/badge/Lambda-F90?logo=awslambda&logoColor=fff&style=plastic)
 ![Modal](https://img.shields.io/badge/Modal-7FEE64?logo=modal&logoColor=fff&style=plastic)
