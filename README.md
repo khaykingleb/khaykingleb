@@ -23,19 +23,13 @@
 
 
 #### Backend
+![gRPC](http://img.shields.io/badge/-<>%20gRPC-00A98F?style=plastic&logo=grpc&logoColor=ffffff)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539.svg?style=plastic&logo=OpenAPI-Initiative&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)
-![Protobuf](http://img.shields.io/badge/-<>%20gRPC-00A98F?style=plastic&logo=grpc&logoColor=ffffff)
 ![AIOHTTP](https://img.shields.io/badge/AsyncIO-2C5BB4?logo=aiohttp&logoColor=fff&style=plastic)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=plastic&logo=FastAPI&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063.svg?style=plastic&logo=Pydantic&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=plastic&logo=jsonwebtokens&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20.svg?style=plastic&logo=Apache-Kafka&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A.svg?style=plastic&logo=Celery&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=plastic&logo=RabbitMQ&logoColor=white)
-![Smarty][smarty]
-![Jinja](https://img.shields.io/badge/Jinja-B41717.svg?style=plastic&logo=Jinja&logoColor=white)
-![Hydra][hydra]
 ![Node.js](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=plastic)
 
 #### DevOps & MLOps
@@ -67,6 +61,9 @@
 ![ONNX](https://img.shields.io/badge/ONNX-005CED.svg?style=plastic&logo=ONNX&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/TensorRT-8fce00?style=plastic&logo=NVIDIA&logoColor=white)
 ![CoreML][core-ml]
+![Smarty][smarty]
+![Jinja](https://img.shields.io/badge/Jinja-B41717.svg?style=plastic&logo=Jinja&logoColor=white)
+![Hydra][hydra]
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D.svg?style=plastic&logo=Argo&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logoColor=white&style=plastic&logo=GItHub-Actions)
 ![Pre-commit](https://img.shields.io/badge/Pre--commit-FAB040.svg?style=plastic&logo=pre-commit&logoColor=white)
@@ -91,11 +88,17 @@
 ![pnpm](https://img.shields.io/badge/Pnpm-F69220?logo=Pnpm&logoColor=fff&style=plastic)
 ![npm](https://img.shields.io/badge/Npm-CB3837?logo=npm&logoColor=fff&style=plastic)
 
-#### Data & Databases & Analytics
+#### DE & Distributed Systems
 ![Hadoop](https://img.shields.io/badge/Hadoop-017CEE?style=plastic&logo=Apache%20Hadoop&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff&style=plastic)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C.svg?style=plastic&logo=Apache-Spark&logoColor=white)
 ![Databrics](https://img.shields.io/badge/Databricks-FF3621.svg?style=plastic&logo=Databricks&logoColor=white)
 ![Polars](https://img.shields.io/badge/Polars-CD792C?logo=polars&logoColor=fff&style=plastic)
+![Kafka](https://img.shields.io/badge/Kafka-231F20.svg?style=plastic&logo=Apache-Kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=plastic&logo=RabbitMQ&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A.svg?style=plastic&logo=Celery&logoColor=white)
+
+#### Storage
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=plastic)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
 ![Sqitch][sqitch]
@@ -149,6 +152,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=plastic&logo=Notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=plastic&logo=Slack&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=plastic&logo=Jira&logoColor=white)
+
 
 [sql]: https://img.shields.io/static/v1?style=plastic&label=+&color=4169E1&logoColor=white&message=SQL&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+T3JhY2xlIFNRTCBEZXZlbG9wZXI8L3RpdGxlPjxwYXRoIHN0eWxlPSJmaWxsOiB3aGl0ZTsiIGQ9Ik0yNCAxNy45ODJjMCAyLjgyNC0yLjI5IDUuMTE0LTUuMTE0IDUuMTE0LTIuODI1IDAtNS4xMTQtMi4yOS01LjExNC01LjExNHMyLjI4OS01LjExNCA1LjExNC01LjExNGMyLjgyNCAwIDUuMTE0IDIuMjkgNS4xMTQgNS4xMTRabS02LjkxNSAyLjUzNyA0Ljc1NS0yLjc0NS00Ljc1NS0yLjc0NnY1LjQ5MVptMi41NjgtMTcuOTIxYzAgLjkzNi00LjM5OSAxLjY5NC05LjgyNiAxLjY5NEM0LjM5OSA0LjI5MiAwIDMuNTM0IDAgMi41OTggMCAxLjY2MyA0LjM5OS45MDUgOS44MjcuOTA1YzUuNDI3IDAgOS44MjYuNzU4IDkuODI2IDEuNjkzWm0uMDAxLjE4NHY1LjQwMWMwIC45My00LjM5OSAxLjY5LTkuODI3IDEuNjlTMCA5LjExOSAwIDguMTgzVjIuNzkyYzAgLjkzIDQuMzk5IDEuNjg5IDkuODI3IDEuNjg5czkuODI3LS43NTkgOS44MjctMS42OTlaTTkuODI3IDIyLjc0M0M0LjM5OSAyMi43NDMgMCAyMS45ODkgMCAyMS4wNTR2LTUuNDAyYzAgLjkzIDQuMzk5IDEuNjg4IDkuODI3IDEuNjg4IDEuMTQ2IDAgMi4yNDctLjAzNCAzLjI3LS4wOTUtLjAzMS4yNDItLjA0Ni40ODgtLjA0Ni43MzcgMCAxLjgwNi44MiAzLjQyIDIuMTA4IDQuNDktMS41MzYuMTcxLTMuMzY3LjI3MS01LjMzMi4yNzFaTTAgOS41NjZjMCAuOTMgNC4zOTkgMS42ODggOS44MjcgMS42ODhzOS44MjctLjc1NCA5LjgyNy0xLjY4OHYyLjYzMWMtLjI1MS0uMDMzLS41MDgtLjA1LS43NjgtLjA1LTIuNDY3IDAtNC41NzYgMS41My01LjQzIDMuNjkzLTEuMTIyLjA3Ny0yLjM0Ny4xMTktMy42MjkuMTE5QzQuMzk5IDE1Ljk1OSAwIDE1LjIwNSAwIDE0LjI3VjkuNTY2WiIvPjwvc3ZnPg==
 
