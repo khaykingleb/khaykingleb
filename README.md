@@ -88,7 +88,7 @@
 ![pnpm](https://img.shields.io/badge/Pnpm-F69220?logo=Pnpm&logoColor=fff&style=plastic)
 ![npm](https://img.shields.io/badge/Npm-CB3837?logo=npm&logoColor=fff&style=plastic)
 
-#### DE & Distributed Systems
+#### Data Engineering & Distributed Systems
 ![Hadoop](https://img.shields.io/badge/Hadoop-017CEE?style=plastic&logo=Apache%20Hadoop&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff&style=plastic)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C.svg?style=plastic&logo=Apache-Spark&logoColor=white)
