@@ -90,7 +90,6 @@
 
 #### Data Engineering & Distributed Systems
 ![Hadoop](https://img.shields.io/badge/Hadoop-017CEE?style=plastic&logo=Apache%20Hadoop&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff&style=plastic)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C.svg?style=plastic&logo=Apache-Spark&logoColor=white)
 ![Databrics](https://img.shields.io/badge/Databricks-FF3621.svg?style=plastic&logo=Databricks&logoColor=white)
 ![Polars](https://img.shields.io/badge/Polars-CD792C?logo=polars&logoColor=fff&style=plastic)
