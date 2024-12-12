@@ -56,7 +56,6 @@
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?logo=traefikproxy&logoColor=fff&style=plastic)
 ![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt%20ACME-003A70?logo=letsencrypt&logoColor=fff&style=plastic)
 ![Namecheap](https://img.shields.io/badge/Namecheap-DE3723?logo=namecheap&logoColor=fff&style=plastic)
-![Inlets][inlets]
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?logo=tailscale&logoColor=fff&style=plastic)
 ![Ngrok](https://img.shields.io/badge/Ngrok-1F1E37?logo=ngrok&logoColor=fff&style=plastic)
 ![DVC](https://img.shields.io/badge/DVC-13ADC7.svg?style=plastic&logo=DVC&logoColor=white)
