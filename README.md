@@ -1,6 +1,6 @@
 ## Hey 👋
 * I'm Gleb, a full-stack developer specializing in MLOps/DevOps engineering. 
-* I've graduated from the Higher School of Economics, where I studied both Computer Science and Finance.
+* Graduated from the Higher School of Economics, where I studied both Computer Science and Finance.
 
 
 ## Stack
