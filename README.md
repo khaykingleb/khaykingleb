@@ -17,7 +17,6 @@
   ![SQL][sql]
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logoColor=white&style=plastic&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&Color=white&style=plastic)
-  ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=plastic)
   
   ##### Frontend
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=plastic)
@@ -136,6 +135,7 @@
   ![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?style=plastic&logo=Plotly&logoColor=white)
   ![Colab](https://img.shields.io/badge/Colab-F9AB00.svg?style=plastic&logo=Google-Colab&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=plastic&logo=Jupyter&logoColor=white)
+  ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=plastic)
 
   ##### Miscellaneous
   ![Anki](https://img.shields.io/badge/Anki-80C2EE?style=plastic&logo=anki&logoColor=white)
