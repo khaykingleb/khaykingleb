@@ -1,6 +1,6 @@
 ### 👋 Hey
-* I'm Gleb, a full-stack developer specializing in MLOps/DevOps engineering. 
-* Graduated from the [Higher School of Economics](https://www.hse.ru/en/), where I studied [Computer Science](https://cs.hse.ru/en/) and [Finance](https://economics.hse.ru/en/).
+* I'm Gleb, a full-stack developer specializing in MLOps/DevOps engineering
+* Graduated from the [Higher School of Economics](https://www.hse.ru/en/), where I studied [Computer Science](https://cs.hse.ru/en/) and [Finance](https://economics.hse.ru/en/)
 
 ### 📚 Latest Blog Posts
 * [Kubernetes monitoring with Grafana Cloud](https://khaykingleb.com/blog/kubernetes-monitoring-grafana-cloud)
