@@ -1,15 +1,15 @@
 ## Hey 👋
 * I'm Gleb, a full-stack developer specializing in MLOps/DevOps engineering. 
-* Graduated from the Higher School of Economics, where I studied both Computer Science and Finance.
+* Graduated from the [Higher School of Economics](https://www.hse.ru/en/), where I studied [Computer Science](https://cs.hse.ru/en/) and [Finance](https://economics.hse.ru/en/).
 
 
 ## Stack
 ![Top Langs](https://github-readme-stats-mu-olive.vercel.app/api/top-langs/?username=khaykingleb&count_private=true&hide=jupyter%20notebook,R,stata,html,smarty,mako,CSS&layout=compact&langs_count=10)
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>Click to view technologies</summary>
 
-  ##### Languages
+  ### Languages
   ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
   ![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=plastic)
   ![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=plastic&logo=Go&logoColor=white)
@@ -18,7 +18,7 @@
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logoColor=white&style=plastic&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&Color=white&style=plastic)
   
-  ##### Frontend
+  ### Frontend
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=plastic)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=plastic)
   ![Remix](https://img.shields.io/badge/Remix-000?logo=remix&logoColor=fff&style=plastic)
@@ -29,7 +29,7 @@
   ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=plastic)
   
   
-  ##### Backend
+  ### Backend
   ![gRPC](http://img.shields.io/badge/-<>%20gRPC-00A98F?style=plastic&logo=grpc&logoColor=ffffff)
   ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539.svg?style=plastic&logo=OpenAPI-Initiative&logoColor=white)
   ![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)
@@ -41,7 +41,7 @@
   ![JWT](https://img.shields.io/badge/-JWT-000000?style=plastic&logo=jsonwebtokens&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=plastic)
 
-  ##### DevOps & MLOps
+  ### DevOps & MLOps
   ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logoColor=white&style=plastic&logo=Terraform)
   ![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?logo=opentofu&logoColor=000&style=plastic)
   ![Ansible](https://img.shields.io/badge/Ansible-E00?logo=ansible&logoColor=fff&style=plastic)
@@ -70,6 +70,7 @@
   ![Ollama](https://img.shields.io/badge/Ollama-000000?style=plastic&logo=ollama&logoColor=white)
   ![Gradio](https://img.shields.io/badge/Gradio-F97316?style=plastic&logo=gradio&logoColor=white)
   ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=plastic&logo=LangChain&logoColor=white)
+  ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langgraph&logoColor=fff&style=plastic)
   ![TorchScript](https://img.shields.io/badge/TorchScript-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
   ![ONNX](https://img.shields.io/badge/ONNX-005CED.svg?style=plastic&logo=ONNX&logoColor=white)
   ![TensorRT](https://img.shields.io/badge/TensorRT-8fce00?style=plastic&logo=NVIDIA&logoColor=white)
@@ -95,13 +96,14 @@
   ![Semantic Release](https://img.shields.io/badge/Semantic%20Release-494949.svg?style=plastic&logo=semantic-release&logoColor=white)
   ![Make](https://img.shields.io/badge/Make-A42E2B.svg?style=plastic&logo=GNU&logoColor=white)
   ![CMake](https://img.shields.io/badge/CMake-064F8C.svg?style=plastic&logo=CMake&logoColor=white)
+  ![uv](https://img.shields.io/badge/uv-DE5FE9?logo=uv&logoColor=fff&style=plastic)
   ![Poetry](https://img.shields.io/badge/Poetry-60A5FA.svg?style=plastic&logo=Poetry&logoColor=white)
   ![Anaconda](https://img.shields.io/badge/Conda-44A833.svg?style=plastic&logo=Anaconda&logoColor=white)
   ![Conan](https://img.shields.io/badge/Conan-6699CB.svg?style=plastic&logo=Conan&logoColor=white)
   ![pnpm](https://img.shields.io/badge/Pnpm-F69220?logo=Pnpm&logoColor=fff&style=plastic)
   ![npm](https://img.shields.io/badge/Npm-CB3837?logo=npm&logoColor=fff&style=plastic)
 
-  ##### Data Engineering & Distributed Systems
+  ### Data Engineering & Distributed Systems
   ![Hadoop](https://img.shields.io/badge/Hadoop-017CEE?style=plastic&logo=Apache%20Hadoop&logoColor=white)
   ![Spark](https://img.shields.io/badge/Spark-E25A1C.svg?style=plastic&logo=Apache-Spark&logoColor=white)
   ![Databrics](https://img.shields.io/badge/Databricks-FF3621.svg?style=plastic&logo=Databricks&logoColor=white)
@@ -110,7 +112,7 @@
   ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=plastic&logo=RabbitMQ&logoColor=white)
   ![Celery](https://img.shields.io/badge/Celery-37814A.svg?style=plastic&logo=Celery&logoColor=white)
 
-  ##### Storage
+  ### Storage
   ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=plastic)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
   ![Sqitch][sqitch]
@@ -121,7 +123,7 @@
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=plastic&logo=Firebase&logoColor=white)
   ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?logo=airtable&logoColor=fff&style=plastic)
 
-  ##### R&D
+  ### R&D
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
   ![Lightning](https://img.shields.io/badge/Lightning-792EE5.svg?style=plastic&logo=Lightning&logoColor=white)
   ![WB](https://img.shields.io/badge/W&B-FFBE00.svg?style=plastic&logo=weightsandbiases&logoColor=white)
@@ -137,7 +139,7 @@
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=plastic&logo=Jupyter&logoColor=white)
   ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=plastic)
 
-  ##### Miscellaneous
+  ### Miscellaneous
   ![Anki](https://img.shields.io/badge/Anki-80C2EE?style=plastic&logo=anki&logoColor=white)
   ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=plastic&logo=OpenAI&logoColor=white)
   ![VSC](https://img.shields.io/badge/VSCode-007ACC.svg?style=plastic&logo=Visual-Studio-Code&logoColor=white)
