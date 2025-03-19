@@ -3,9 +3,9 @@
 * Graduated from the [Higher School of Economics](https://www.hse.ru/en/), where I studied [Computer Science](https://cs.hse.ru/en/) and [Finance](https://economics.hse.ru/en/)
 
 ### 📚 Latest Blog Posts
-* [Kubernetes monitoring with Grafana Cloud](https://khaykingleb.com/blog/kubernetes-monitoring-grafana-cloud)
-* [Attention mechanisms and transformers](https://khaykingleb.com/blog/attention-mechanisms-transformers)
-* [Introduction to digital signal processing](https://khaykingleb.com/blog/digital-signal-processing)
+* [Kubernetes monitoring with Grafana Cloud](https://khaykingleb.com/blog/kubernetes-monitoring-with-grafana-cloud)
+* [Attention mechanisms and transformers](https://khaykingleb.com/blog/attention-mechanisms-and-transformers)
+* [Introduction to digital signal processing](https://khaykingleb.com/blog/introduction-to-digital-signal-processing)
 
 
 ### 🛠️ Stack
