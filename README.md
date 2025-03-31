@@ -102,7 +102,7 @@
   ![Semantic Release](https://img.shields.io/badge/Semantic%20Release-494949.svg?style=plastic&logo=semantic-release&logoColor=white)
   ![Make](https://img.shields.io/badge/Make-A42E2B.svg?style=plastic&logo=GNU&logoColor=white)
   ![CMake](https://img.shields.io/badge/CMake-064F8C.svg?style=plastic&logo=CMake&logoColor=white)
-  ![uv](https://img.shields.io/badge/uv-DE5FE9?logo=uv&logoColor=fff&style=plastic)
+  ![uv](https://img.shields.io/badge/Uv-DE5FE9?logo=uv&logoColor=fff&style=plastic)
   ![Poetry](https://img.shields.io/badge/Poetry-60A5FA.svg?style=plastic&logo=Poetry&logoColor=white)
   ![Anaconda](https://img.shields.io/badge/Conda-44A833.svg?style=plastic&logo=Anaconda&logoColor=white)
   ![Conan](https://img.shields.io/badge/Conan-6699CB.svg?style=plastic&logo=Conan&logoColor=white)
