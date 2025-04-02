@@ -77,6 +77,7 @@
   ![Gradio](https://img.shields.io/badge/Gradio-F97316?style=plastic&logo=gradio&logoColor=white)
   ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=plastic&logo=LangChain&logoColor=white)
   ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langgraph&logoColor=fff&style=plastic)
+  ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?logo=LangChain&logoColor=fff&style=plastic)
   ![TorchScript](https://img.shields.io/badge/TorchScript-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
   ![ONNX](https://img.shields.io/badge/ONNX-005CED.svg?style=plastic&logo=ONNX&logoColor=white)
   ![TensorRT](https://img.shields.io/badge/TensorRT-8fce00?style=plastic&logo=NVIDIA&logoColor=white)
