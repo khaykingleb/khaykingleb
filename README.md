@@ -51,6 +51,7 @@
   ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logoColor=white&style=plastic&logo=Terraform)
   ![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?logo=opentofu&logoColor=000&style=plastic)
   ![Ansible](https://img.shields.io/badge/Ansible-E00?logo=ansible&logoColor=fff&style=plastic)
+  ![Containerd](https://img.shields.io/badge/Containerd-575757?logo=containerd&logoColor=fff&style=plastic)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=plastic&logoColor=white&logo=docker)
   ![K8s](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=plastic&logo=kubernetes&logoColor=white)
   ![K3s](https://img.shields.io/badge/K3s-FFC61C?logo=k3s&logoColor=white&style=plastic)
