@@ -10,7 +10,7 @@
 
 
 ### 🛠️ Stack
-![Top Langs](https://github-readme-stats-mu-olive.vercel.app/api/top-langs/?username=khaykingleb&count_private=true&hide=jupyter%20notebook,R,stata,html,smarty,mako,CSS&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats-mu-olive.vercel.app/api/top-langs/?username=khaykingleb&count_private=true&hide=jupyter%20notebook,R,stata,html,smarty,mako,CSS,makefile,jinja,javascript&layout=compact&langs_count=10)
 
 <details>
   <summary>Click to view technologies</summary>
