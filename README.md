@@ -56,6 +56,7 @@
   ![K8s](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=plastic&logo=kubernetes&logoColor=white)
   ![K3s](https://img.shields.io/badge/K3s-FFC61C?logo=k3s&logoColor=white&style=plastic)
   ![Helm](https://img.shields.io/badge/Helm-0F1689.svg?style=plastic&logo=Helm&logoColor=white)
+  ![Kustomize](https://img.shields.io/badge/Kustomize-326ce5.svg?&style=plastic&logo=kubernetes&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?logoColor=white&style=plastic&logo=amazonwebservices)
   ![GCP](https://img.shields.io/badge/GCP-4285F4.svg?style=plastic&logo=Google-Cloud&logoColor=white)
   ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=plastic&logo=Cloudflare&logoColor=white)
