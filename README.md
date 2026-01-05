@@ -1,8 +1,8 @@
 ### 👋 Hey
-* I'm Gleb, a full-stack developer specializing in MLOps/DevOps engineering
-* Working on the Model Shaping team at [Together AI](https://www.together.ai) as an ML Platform Engineer, building infrastructure and tooling for fine-tuning, evaluation, and continual improvement of open-source LLMs
+* I'm Gleb, an ML platform engineer working on large-scale ML systems, infrastructure, and DevOps
+* Working on the Model Shaping team at [Together AI](https://www.together.ai), building infrastructure and tooling for fine-tuning, reinforcement learning, evaluation, quantization, and distillation of open-source LLMs
 * Graduated from the [Higher School of Economics](https://www.hse.ru/en/), where I studied [Computer Science](https://cs.hse.ru/en/) and [Finance](https://economics.hse.ru/en/)
-* Passed [CFA](https://www.cfainstitute.org/) Level 1 in my third year of undergrad — mostly for fun
+* Passed [CFA](https://www.cfainstitute.org/) Level 1 in my third year of undergrad, mostly for fun
 
 ### 📚 Latest Blog Posts
 * [Kubernetes monitoring with Grafana Cloud](https://khaykingleb.com/blog/kubernetes-monitoring-with-grafana-cloud)
