@@ -103,6 +103,7 @@
   ![Conventional Commits](https://img.shields.io/badge/-Conventional_Commits-FE5196?style=plastic&logo=Conventional-Commits&logoColor=white)
   ![SemVer](https://img.shields.io/badge/SemVer-3F4551.svg?style=plastic&logo=SemVer&logoColor=white)
   ![Semantic Release](https://img.shields.io/badge/Semantic%20Release-494949.svg?style=plastic&logo=semantic-release&logoColor=white)
+  ![Just](https://img.shields.io/badge/Just-000?logo=just&logoColor=fff&style=plastic)
   ![Make](https://img.shields.io/badge/Make-A42E2B.svg?style=plastic&logo=GNU&logoColor=white)
   ![CMake](https://img.shields.io/badge/CMake-064F8C.svg?style=plastic&logo=CMake&logoColor=white)
   ![uv](https://img.shields.io/badge/Uv-DE5FE9?logo=uv&logoColor=fff&style=plastic)
@@ -131,6 +132,7 @@
   ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=plastic&logo=Supabase&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=plastic&logo=Firebase&logoColor=white)
   ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?logo=airtable&logoColor=fff&style=plastic)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=plastic)
 
   #### R&D
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
