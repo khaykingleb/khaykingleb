@@ -1,6 +1,6 @@
 ### 👋 Hey
 * I'm Gleb, an ML platform engineer working on large-scale ML systems, infrastructure, and DevOps
-* Working on the Model Shaping team at [Together AI](https://www.together.ai), building infrastructure and tooling for fine-tuning, reinforcement learning, evaluation, quantization, and distillation of open-source LLMs
+* Currently working on the Model Shaping team at [Together.ai](https://www.together.ai), building infrastructure and tooling for fine-tuning, reinforcement learning, evaluation, quantization, and distillation of open-source LLMs
 * Graduated from the [Higher School of Economics](https://www.hse.ru/en/), where I studied [Computer Science](https://cs.hse.ru/en/) and [Finance](https://economics.hse.ru/en/)
 * Passed [CFA](https://www.cfainstitute.org/) Level 1 in my third year of undergrad, mostly for fun
 
