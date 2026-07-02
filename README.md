@@ -1,13 +1,16 @@
 ### 👋 Hey, I'm Gleb
-* ML infra / platform engineer specializing in MLOps/DevOps and large-scale distributed systems for training and inference
+* ML infra / platform engineer focused on GPU clusters, Kubernetes, and large-scale distributed systems for training and inference
 * Currently on the Model Shaping team at [Together AI](https://www.together.ai), building infrastructure and platform tooling for fine-tuning, RL, evaluation, quantization, and distillation of open-source LLMs at scale
 * Graduated from the [Higher School of Economics](https://www.hse.ru/en/), where I studied [Computer Science](https://cs.hse.ru/en/) and [Finance](https://economics.hse.ru/en/)
 * Passed [CFA](https://www.cfainstitute.org/) Level 1 during undergrad; maintain interest in quantitative finance and portfolio management
 
-### 📚 Latest Blog Posts
+### 📚 Latest blog posts
 * [Kubernetes monitoring with Grafana Cloud](https://khaykingleb.com/blog/kubernetes-monitoring-with-grafana-cloud)
 * [Attention mechanisms and transformers](https://khaykingleb.com/blog/attention-mechanisms-and-transformers)
 * [Introduction to digital signal processing](https://khaykingleb.com/blog/introduction-to-digital-signal-processing)
+
+### 🐟 Upstream contributions
+- [actions/actions-runner-controller#4455](https://github.com/actions/actions-runner-controller/pull/4455) — Helm chart fix for orphaned ServiceAccounts blocking uninstalls
 
 
 ### 🛠️ Stack
